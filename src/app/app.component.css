@@ -1,0 +1,15 @@
+table {
+    width: 100%;
+}
+
+.actions-column {
+    width: 100px;
+}
+
+.container {
+    padding: 15px 15px 0;
+}
+
+.add-button {
+    margin-bottom: 15px;
+}
